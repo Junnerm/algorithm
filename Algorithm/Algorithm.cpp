@@ -143,7 +143,7 @@ void initVector(vector<int>& vec)
 	vec.push_back(9);
 	vec.push_back(2);
 }
-int main()
+int main01()
 {
 	//环路检测
 	/*ListNode* temp = initList();
